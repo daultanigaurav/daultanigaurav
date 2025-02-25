@@ -1,4 +1,3 @@
-# gauravdaultani
 About Me:
 
 Hey there! 👋 I'm Gaurav Daultani, a developer with a growing passion for DevOps and cloud technologies.
