@@ -1,14 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/daultanigaurav/daultanigaurav/blob/main/banner.png?raw=true" alt="My GitHub Banner">
+  <img src="https://raw.githubusercontent.com/daultanigaurav/daultanigaurav/main/BANNER" alt="My GitHub Banner">
 </p>
 
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <!--Header Name-->
 <h1 id="-ɪᴍ-gaurav"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ Gaurav Daultani!</h1>
 <p><em>I write code... sometimes it even works!</em>
 <br></p>
+
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Cloud Computing Enthusiast with a huge love for Python, React.js, Django, RDBMS, REST API. </p>
 <ul>
