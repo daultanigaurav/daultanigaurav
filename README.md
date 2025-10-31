@@ -15,7 +15,7 @@
 <ul>
 <li>🚀 Passionate about building scalable web applications.</li>
 <li>⚡ Always exploring new technologies and frameworks.</li>
-<li>💻 Check out my <a href="https://daultanigaurav.vercel.app">Portfolio</a> to learn more about me.</li>
+<li>💻 Check out my <a href="https:/gauravdaultani.me">Portfolio</a> to learn more about me.</li>
 
 </ul>
 <!--End Intro-->
